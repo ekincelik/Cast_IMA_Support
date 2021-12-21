@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-Cast_IMA_Support_iOS/Pods-Cast_IMA_Support_iOS-resources.sh
+${PODS_ROOT}/google-cast-sdk/GoogleCastSDK-ios-4.7.0_static/GoogleCast.framework/GoogleCastCoreResources.bundle
+${PODS_ROOT}/google-cast-sdk/GoogleCastSDK-ios-4.7.0_static/GoogleCast.framework/GoogleCastUIResources.bundle

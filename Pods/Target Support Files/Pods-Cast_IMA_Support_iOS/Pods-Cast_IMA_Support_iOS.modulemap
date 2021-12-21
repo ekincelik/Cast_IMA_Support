@@ -1,0 +1,6 @@
+framework module Pods_Cast_IMA_Support_iOS {
+  umbrella header "Pods-Cast_IMA_Support_iOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
