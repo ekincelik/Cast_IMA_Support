@@ -4,7 +4,7 @@ platform :ios, '14.0'
 
 target 'Cast_IMA_Support_iOS' do
   platform :ios, '14.0'
-#  pod 'google-cast-sdk'
+  pod 'google-cast-sdk'
   pod 'GoogleAds-IMA-iOS-SDK'
 end
 

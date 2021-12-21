@@ -1,16 +1,27 @@
 PODS:
+  - google-cast-sdk (4.7.0):
+    - google-cast-sdk/Core (= 4.7.0)
+    - Protobuf (~> 3.13)
+  - google-cast-sdk/Core (4.7.0):
+    - Protobuf (~> 3.13)
   - GoogleAds-IMA-iOS-SDK (3.14.5)
+  - Protobuf (3.19.1)
 
 DEPENDENCIES:
+  - google-cast-sdk
   - GoogleAds-IMA-iOS-SDK
 
 SPEC REPOS:
   trunk:
+    - google-cast-sdk
     - GoogleAds-IMA-iOS-SDK
+    - Protobuf
 
 SPEC CHECKSUMS:
+  google-cast-sdk: 6731e9a206ce43e0f4433d15598ad8a19f0371d5
   GoogleAds-IMA-iOS-SDK: b088674002266c5638e73d10696c8b13872ee15e
+  Protobuf: 3724efa50cb2846d7ccebc8691c574e85fd74471
 
-PODFILE CHECKSUM: c74857f1a50efc9cc72bf84ce9807f2c36a21140
+PODFILE CHECKSUM: b15cbd241e5389c1fe0df282c4326cb4451c6fcd
 
 COCOAPODS: 1.11.2
